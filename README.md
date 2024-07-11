@@ -1,6 +1,8 @@
 # KEditor
 KEditor is a jQuery plugin which provides a content editor with drag and drop snippets
 
+![img.png](img.png)
+
 ## Shortcuts
  * [Live examples](#live-examples)
  * [Dependencies](#dependencies)
