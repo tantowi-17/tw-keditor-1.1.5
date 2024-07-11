@@ -232,7 +232,7 @@
     
     KEditor.prototype.initFrame = function (target) {
         flog('initFrame', target);
-        
+
         var self = this;
         var options = self.options;
         var originalContent = target.is('textarea') ? target.val() : target.html();
